@@ -1,10 +1,6 @@
-# Clicky example
+# Starter kit 
 
-A very basic example of using UniversalJS. It's the smallest useful example I could think of to show how to build something with UniversalJS.
-
-# Demo
-
-  - [Clicky](http://clicky.svenardo.com/)
+A very basic starter kit for UniversalJS.
 
 # Build
 
@@ -18,5 +14,3 @@ Clone and execute _npm run build_. This command uses webpack to build the _bundl
 
 * [universal-jsx-loader](https://github.com/svenanders/universal-jsx-loader) - Webpack loader for Universal JSX.
 
-# universaljs-starter
-# universaljs-starter
